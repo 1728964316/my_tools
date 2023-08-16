@@ -34,7 +34,7 @@ def interview(url, pg):
     content = root.xpath('//*[@id="content"]/p/text()')
     t = ""
     for i in content:
-        t += "  " + i.strip()
+        t += "  " + i.strip() + "\n"
 
     # 将正文内容写入文件
     with open(
