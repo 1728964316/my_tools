@@ -3,3 +3,6 @@
 简单的练手项目
 
 1.中华典藏爬取文本 https://www.zhonghuadiancang.com/
+
+2.微信读书ocr识别 https://weread.qq.com/
+  效果不好,以后有空再改进吧.
